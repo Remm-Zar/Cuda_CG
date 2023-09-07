@@ -1,2 +1,2 @@
 # CudaCG
-CG method with IC0 factorization implemented using CUDA cuSPARSE &amp; cuBLAS
+CG method for solving of sparse SLAE with IC0 factorization implemented using CUDA cuSPARSE and cuBLAS;
